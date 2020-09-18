@@ -32,7 +32,7 @@ Technologies<br>
 Tracking system<br>
 *Trello*<br>
 Tools <br>
-*VS Code,  VS, Gulp, WebPack, Photoshop, Figma, Git, W3c  validation,  Lighthouse*<br>
+*VS Code,  VS, Gulp, WebPack, Photoshop, Figma, Git,  Lighthouse*<br>
 
 
 
